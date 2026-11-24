@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Java build output
+java/classes/
+
+# Generated demo circuit (templates/make_circ.py writes this)
+templates/新建电路.circ
+新建电路.circ
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
